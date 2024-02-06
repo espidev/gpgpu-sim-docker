@@ -7,7 +7,7 @@ gpgpu-sim in a docker image (Ubuntu 20.04, CUDA Toolkit 11)
 $ docker build -t gpgpu-sim:latest .
 ```
 
-# Run
+### Run
 
 Use the container:
 
